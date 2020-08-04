@@ -1,4 +1,4 @@
-package moda.entities;
+package model.entities;
 
 import java.io.Serializable;
 

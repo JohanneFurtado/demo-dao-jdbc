@@ -2,8 +2,8 @@ package application;
 
 import java.util.Date;
 
-import moda.entities.Department;
-import moda.entities.Seller;
+import model.entities.Department;
+import model.entities.Seller;
 
 public class Program {
 
@@ -15,5 +15,4 @@ public class Program {
 		System.out.println(seller);
 
 	}
-
 }
